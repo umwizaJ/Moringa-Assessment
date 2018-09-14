@@ -1,0 +1,65 @@
+.section h2,h1{
+    font-size: 19px;
+
+}
+.section h1,p{
+    color: black;
+}
+.size1 h1,img,.size2 h1,img,.size3 h1,img{
+    display: inline-block;
+}
+.spacing1 h2,p,.spacing2 h2,p,.spacing3 h2,p{
+    display: inline-block;
+    font-size: 15px;
+}
+.spacing1 p,.spacing2 p,.spacing3 p{
+    padding-left: 100px;
+    font-size: 15px;
+}
+.women_products{
+    width: 960px;
+    height: 790px;
+}
+.about{
+    text-align: center;
+    width: 690px;
+    height: 200px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+    border-color: rgb(105, 91, 72)
+
+}
+.about p , legend{
+    color: antiquewhite;
+    font-size:20px;
+}
+.about p{
+    width: 500px;
+    height: 100px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.footer_image img{
+    width: 30px;
+    height: 25px;
+}
+.tod{
+    background-color: rgb(240, 233, 233)
+}
+.items img{
+    padding-left: 20px;
+}
+.tod:hover{
+    border-color: rgb(88, 65, 33)
+}
+.spacing1 h2,.spacing3 h2{
+    padding-left: 20px;
+
+}
+.spacing2{
+    padding-left: 15px;
+}
+.foot{
+    color: rgb(241, 215, 181);
+    font-size: 11px
+}
